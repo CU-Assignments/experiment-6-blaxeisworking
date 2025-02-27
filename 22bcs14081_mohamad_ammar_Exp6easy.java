@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/JAVALAB2";
         String user = "root";
-        String password = "New@14081";
+        String password = "avsg@1342";
 
         String query = "SELECT EmpID, Name, Salary FROM Employee";
 
